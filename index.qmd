@@ -19,7 +19,7 @@ We hope it can prove a useful community driven resource for everyone from the mo
 
 ## Test internal videos
 
-### Internal videos from sharepoint
+### Internal videos in sharepoint
 
 Using a direct link to the mp4 file
 
